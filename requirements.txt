@@ -1,0 +1,7 @@
+aalpy~=1.4.1
+pytest~=8.2.0
+black
+isort
+mypy
+pytest
+pytest-benchmark[histogram]
